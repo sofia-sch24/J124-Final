@@ -8,17 +8,33 @@ dataset: https://docs.google.com/spreadsheets/d/1uBeZoFyMGG1coBuBjTrJCk-j13NVXJF
 ### 1. What was the most widely shared post from these outlets and was the post from a right-leaning or left-leaning outlet?
 ![question 1](https://github.com/sofia-sch24/J124-Final/blob/38b657e356eb6115e4d488d6f774240a59e3e500/question%201.png)
 
+How I found the answer: Sort the column "share count" from Z ---> A. This should give you the largest share count at the top. 
+
+The most widely shared post in this dataset is by Occupy Democrats with a share count of 1,088,995. Notably, this post contains no factual content meaning this is misinformation. As classified by Buzzfeed, Occupy Democrats is a left-leaning site and the information posted was in the form of a video. 
+
 ### 2. Of the posts that were comprised of photos, was the content mostly true or was there no factual content?
 ![question 2](https://github.com/sofia-sch24/J124-Final/blob/354224851dce37137bd0c0de1953599ec0d7fcdb/question%202.png)
+
+How I found the answer: Create a FILTER on the sheet of "Post Type" and "Rating" only. The formula I used was =FILTER(G2:H2283,G2:G2283 ="photo")
+
+Upon creating this filter, it was very easy to notice that "no factual content" was designated to the majority of photos. Therefore, based on the content in this dataset, the posts that were photos had a majority rating of "no factual content"
 
 ### 3. Of the 3 categories (left, mainstream, and right), which one contained the most "mostly false" and "no factual content" in their ratings?
 ![question 3](https://github.com/sofia-sch24/J124-Final/blob/e774a377651c849f29ec23442b525055770d7362/question%203.png)
 
+How I found the answer: Go to "insert" and create a pivot table. Select "category" for row, "rating" for column, and COUNTA "rating" for value. The pivot table will categorize the number of posts based on "rating" and "category". 
+
+By using this pivot table, I found that left-leaning sites in this dataset had the most ratings "no factual content". However, by combining the ratings of "mostly false" and "no factual content", right-leaning sites overwhelmingly produced the most misleading posts with 178 of 666 posts. 
+
 ### 4. Of the various sites, what is their category makeup? Additionally, which sites received the highest share count?
 ![question 4](https://github.com/sofia-sch24/J124-Final/blob/16cd3e56b60a4b3f5f0eafe816b785bdc1f4c1c2/question%204.png)
 
+How I found the answer: Go to "insert" and create a pivot table. Select "page" for row, "category" for column, and  SUM "share count" for value. The pivot table will categorize the summary of share counts based on page and category. 
+
 ### 5. In the days leading up to the 2016 election, what was the makeup of mostly true to less factual content? Was there more "no factual content" ratings in the last few days the content in this dataset was published?
 ![question 5](https://github.com/sofia-sch24/J124-Final/blob/9db8c4b39ffdcf308ba7e1e1db0c0c75f12250a5/question%205.png)
+
+How I found the answer: Go to "insert" and create a pivot table. Select "Date Published" for row, "rating" for column, and COUNTA "rating" for value. The pivot table will categorize the posts based on rating and date published. 
 
 ## Data Visualization
 
