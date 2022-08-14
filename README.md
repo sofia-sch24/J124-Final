@@ -20,6 +20,10 @@ dataset: https://docs.google.com/spreadsheets/d/1uBeZoFyMGG1coBuBjTrJCk-j13NVXJF
 ### 5. In the days leading up to the 2016 election, what was the makeup of mostly true to less factual content? Was there more "no factual content" ratings in the last few days the content in this dataset was published?
 ![question 5](https://github.com/sofia-sch24/J124-Final/blob/9db8c4b39ffdcf308ba7e1e1db0c0c75f12250a5/question%205.png)
 
+## Data Visualization
+
+![data viz 1](https://github.com/sofia-sch24/J124-Final/blob/54c9e9b3a75f4f50171ed7fce0e37dfa664f184c/data%20viz%201.png)
+
 
 ## Story Pitch and Sources
 
