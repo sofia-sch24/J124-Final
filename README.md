@@ -9,7 +9,7 @@ dataset: https://docs.google.com/spreadsheets/d/1uBeZoFyMGG1coBuBjTrJCk-j13NVXJF
 ![question 1](https://github.com/sofia-sch24/J124-Final/blob/38b657e356eb6115e4d488d6f774240a59e3e500/question%201.png)
 
 ### 2. Of the posts that were comprised of photos, was the content mostly true or was there no factual content?
-
+![question 2](https://github.com/sofia-sch24/J124-Final/blob/354224851dce37137bd0c0de1953599ec0d7fcdb/question%202.png)
 
 ### 3. Of the 3 categories (left, mainstream, and right), which one contained the most "mostly false" and "no factual content" in their ratings?
 
