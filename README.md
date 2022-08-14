@@ -6,7 +6,7 @@ dataset: https://docs.google.com/spreadsheets/d/1uBeZoFyMGG1coBuBjTrJCk-j13NVXJF
 ## Data Analysis Questions: 
 
 ### 1. What was the most widely shared post from these outlets and was the post from a right-leaning or left-leaning outlet?
-
+![question 1](https://github.com/sofia-sch24/J124-Final/blob/38b657e356eb6115e4d488d6f774240a59e3e500/question%201.png)
 
 ### 2. Of the posts that were comprised of photos, was the content mostly true or was there no factual content?
 
