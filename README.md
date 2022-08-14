@@ -15,7 +15,7 @@ dataset: https://docs.google.com/spreadsheets/d/1uBeZoFyMGG1coBuBjTrJCk-j13NVXJF
 ![question 3](https://github.com/sofia-sch24/J124-Final/blob/e774a377651c849f29ec23442b525055770d7362/question%203.png)
 
 ### 4. Of the various sites, what is their category makeup? Additionally, which sites received the highest share count?
-
+![question 4](https://github.com/sofia-sch24/J124-Final/blob/16cd3e56b60a4b3f5f0eafe816b785bdc1f4c1c2/question%204.png)
 
 ### 5. In the days leading up to the 2016 election, what was the makeup of mostly true to less factual content? Was there more "no factual content" ratings in the last few days the content in this dataset was published?
 
