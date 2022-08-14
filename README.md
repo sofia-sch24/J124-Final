@@ -26,4 +26,4 @@ Silverman is the founding editor of the report published by Buzzfeed and the dat
 
 1. Q2 2022 Widely Viewed Content Report by Meta, https://transparency.fb.com/data/widely-viewed-content-report/
 
-2. "In Ukraine, Facebook fact-checkers fight a war on two fronts" by The Washington Post
+2. "In Ukraine, Facebook fact-checkers fight a war on two fronts" by The Washington Post, https://www.washingtonpost.com/technology/2022/04/12/facebook-fact-checkers-misinformation-ukraine-war/
