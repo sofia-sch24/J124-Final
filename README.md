@@ -12,7 +12,7 @@ dataset: https://docs.google.com/spreadsheets/d/1uBeZoFyMGG1coBuBjTrJCk-j13NVXJF
 ![question 2](https://github.com/sofia-sch24/J124-Final/blob/354224851dce37137bd0c0de1953599ec0d7fcdb/question%202.png)
 
 ### 3. Of the 3 categories (left, mainstream, and right), which one contained the most "mostly false" and "no factual content" in their ratings?
-
+![question 3](https://github.com/sofia-sch24/J124-Final/blob/e774a377651c849f29ec23442b525055770d7362/question%203.png)
 
 ### 4. Of the various sites, what is their category makeup? Additionally, which sites received the highest share count?
 
