@@ -8,7 +8,18 @@ dataset: https://docs.google.com/spreadsheets/d/1uBeZoFyMGG1coBuBjTrJCk-j13NVXJF
 ### 1. What was the most widely shared post from these outlets and was the post from a right-leaning or left-leaning outlet?
 
 
-### 2. 
+### 2. Of the posts that were comprised of photos, was the content mostly true or was there no factual content?
+
+
+### 3. Of the 3 categories (left, mainstream, and right), which one contained the most "mostly false" and "no factual content" in their ratings?
+
+
+### 4. Of the various sites, what is their category makeup? Additionally, which sites received the highest share count?
+
+
+### 5. In the days leading up to the 2016 election, what was the makeup of mostly true to less factual content? Was there more "no factual content" ratings in the last few days the content in this dataset was published?
+
+
 
 ## Story Pitch and Sources
 
