@@ -3,6 +3,13 @@
 
 dataset: https://docs.google.com/spreadsheets/d/1uBeZoFyMGG1coBuBjTrJCk-j13NVXJF6V0TOm8bHr4E/edit#gid=898543253, https://github.com/BuzzFeedNews/2016-10-facebook-fact-check
 
+## Data Analysis Questions: 
+
+### 1. What was the most widely shared post from these outlets and was the post from a right-leaning or left-leaning outlet?
+
+
+### 2. 
+
 ## Story Pitch and Sources
 
 It is essential with the prevalence of social media to understand and identify disinformation and extreme content. Many experts are now advising users to excerise increased caution with content on the internet and social media in general. Facebook has shaped the 2016 election and the past 6 years through their inability to curb misinformation. In so many ways, having content without restrictions feeds into Facebook's strategy for more users and more time spent on the platform. As a OSINT researcher at the Berkeley Law Human Rights Center, I've used open source investigations to identify and verify human rights violations. In my findings, I do come across disinformation and understand the methods to verify sources but this knowledge is not widely accessible. Seeing how prevalent misinformation is across social media made me intrigued to do some data analysis on it. 
