@@ -21,3 +21,9 @@ Joseph is an Assistant Professor of Computer Science and Engineering at the Univ
 
 3. Craig Silverman, craig.silverman@buzzfeed.com
 Silverman is the founding editor of the report published by Buzzfeed and the dataset I based my work off of. Although the report is dated back to the 2016 election, I would like to ask him and contributing reporters on his team the most surpising work they found during this report. I would also ask if they have noticed marked changes in the proliferation of misinformation on Facebook today in comparison to 2016 (the year the report was written). 
+
+### Additional Data Sources: 
+
+1. Q2 2022 Widely Viewed Content Report by Meta, https://transparency.fb.com/data/widely-viewed-content-report/
+
+2. "In Ukraine, Facebook fact-checkers fight a war on two fronts" by The Washington Post
