@@ -51,8 +51,9 @@ The most posts with "no factual content" were released on the 2 days closest to 
 ## Data Visualization
 
 ![data viz 1](https://github.com/sofia-sch24/J124-Final/blob/54c9e9b3a75f4f50171ed7fce0e37dfa664f184c/data%20viz%201.png)
+https://datawrapper.dwcdn.net/MnkYQ/1/
 
-This is a scatterplot of the amount of shares a particular post got on a certain date. The posts are based off their categories (left, mainstream, and right). This is a way to visualize the popularity of posts and we can see from this that left-leaning posts receive more shares. 
+This is a scatterplot of the amount of shares a particular post got on a certain date. The posts are based off their categories (left, mainstream, and right). This is a way to visualize the popularity of posts and we can see from this that left-leaning posts receive more shares. As you can see, partisan affiliation can affect the amount of shares a post has. Mainstream posts don't even show up on this list because that is how little shares the posts receive. 
 
 ## Conclusion
 
