@@ -3,6 +3,9 @@
 
 dataset: https://docs.google.com/spreadsheets/d/1uBeZoFyMGG1coBuBjTrJCk-j13NVXJF6V0TOm8bHr4E/edit#gid=898543253, https://github.com/BuzzFeedNews/2016-10-facebook-fact-check
 
+## Summary: 
+
+
 ## Data Analysis Questions: 
 
 ### 1. What was the most widely shared post from these outlets and was the post from a right-leaning or left-leaning outlet?
@@ -10,21 +13,21 @@ dataset: https://docs.google.com/spreadsheets/d/1uBeZoFyMGG1coBuBjTrJCk-j13NVXJF
 
 How I found the answer: Sort the column "share count" from Z ---> A. This should give you the largest share count at the top. 
 
-The most widely shared post in this dataset is by Occupy Democrats with a share count of 1,088,995. Notably, this post contains no factual content meaning this is misinformation. As classified by Buzzfeed, Occupy Democrats is a left-leaning site and the information posted was in the form of a video. 
+The most widely shared post in this dataset is by Occupy Democrats with a share count of 1,088,995. Notably, this post contains no factual content meaning this is misinformation. As classified by Buzzfeed, Occupy Democrats is a left-leaning site and the information posted was in the form of a video. Knowing the most widely shared post contained no faction content may point to the connection between popular posts and the of truth. A lot of widely shared political posts tend to be hyperpartisan and share more biased content. 
 
 ### 2. Of the posts that were comprised of photos, was the content mostly true or was there no factual content?
 ![question 2](https://github.com/sofia-sch24/J124-Final/blob/354224851dce37137bd0c0de1953599ec0d7fcdb/question%202.png)
 
 How I found the answer: Create a FILTER on the sheet of "Post Type" and "Rating" only. The formula I used was =FILTER(G2:H2283,G2:G2283 ="photo")
 
-Upon creating this filter, it was very easy to notice that "no factual content" was designated to the majority of photos. Therefore, based on the content in this dataset, the posts that were photos had a majority rating of "no factual content"
+Upon creating this filter, it was very easy to notice that "no factual content" was designated to the majority of photos. Therefore, based on the content in this dataset, the posts that were photos had a majority rating of "no factual content". A possible reason for this is the fact that photos are easier to alter compared to the other types of posts. 
 
 ### 3. Of the 3 categories (left, mainstream, and right), which one contained the most "mostly false" and "no factual content" in their ratings?
 ![question 3](https://github.com/sofia-sch24/J124-Final/blob/e774a377651c849f29ec23442b525055770d7362/question%203.png)
 
 How I found the answer: Go to "insert" and create a pivot table. Select "category" for row, "rating" for column, and COUNTA "rating" for value. The pivot table will categorize the number of posts based on "rating" and "category". 
 
-By using this pivot table, I found that left-leaning sites in this dataset had the most ratings "no factual content". However, by combining the ratings of "mostly false" and "no factual content", right-leaning sites overwhelmingly produced the most misleading posts with 178 of 666 posts. 
+By using this pivot table, I found that left-leaning sites in this dataset had the most ratings "no factual content". However, by combining the ratings of "mostly false" and "no factual content", right-leaning sites overwhelmingly produced the most misleading posts with 178 of 666 posts. Mainstream sites produced more "mostly true" posts in comparison to the more hyperpartisan sites. 
 
 ### 4. Of the various sites, what is their category makeup? Additionally, which sites received the highest share count?
 ![question 4](https://github.com/sofia-sch24/J124-Final/blob/16cd3e56b60a4b3f5f0eafe816b785bdc1f4c1c2/question%204.png)
