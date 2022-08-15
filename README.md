@@ -31,6 +31,8 @@ By using this pivot table, I found that left-leaning sites in this dataset had t
 
 How I found the answer: Go to "insert" and create a pivot table. Select "page" for row, "category" for column, and  SUM "share count" for value. The pivot table will categorize the summary of share counts based on page and category. 
 
+Left-leaning sites overwhelmingly received the highest amount of shares followed by right-leaning then mainstream sites. The site that received the most shares is Occupy Democrats. An interesting observation is how mainstream news sites produce the least amount of shares. This may indicate that more ideologically opposing sites produce more shares. This also shows the direction the US is going in- one where mainstream coverage is less popular.  
+
 ### 5. In the days leading up to the 2016 election, what was the makeup of mostly true to less factual content? Was there more "no factual content" ratings in the last few days the content in this dataset was published?
 ![question 5](https://github.com/sofia-sch24/J124-Final/blob/9db8c4b39ffdcf308ba7e1e1db0c0c75f12250a5/question%205.png)
 
