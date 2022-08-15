@@ -5,6 +5,11 @@ dataset: https://docs.google.com/spreadsheets/d/1uBeZoFyMGG1coBuBjTrJCk-j13NVXJF
 
 ## Summary: 
 
+Buzzfeed's 2016 report on Hyperpartisan facebook pages revealed alarming trends that made understanding the results of the 2016 election and the misinformation surrounding it easier to comprehend. Buzzfeed collected data on Facebook posts by various outlets on the right, mainstream, and left-leaning spectrum. This includes Rising Eagle, Right Wing News, Freedom Daily, Politico, CNN Politics, ABC News Politics, The Other 98%, Addicting Info, and Occupy Democrats. Buzzfeed's findings revealed jsut how polarized discussions are on Facebook and how rampant misinformation is. Buzzfeed discusses in their report how outlets are able to attract an audience through false information and extreme partisan discussion. 
+
+I will be conducting data analysis to confirm the results of the Buzzfeed report and discuss the results hyperpartisan media and misinformation has on an audience. I will be looking for the overall most shared posts and will check to see if they are factually accurate and what political spectrum they lie on. 
+
+As for my story pitch, I hope to discuss with experts the changes to Facebook's policies on misinformation and if there has been more misinformation spreading across the platform even after the policy changes. 
 
 ## Data Analysis Questions: 
 
@@ -51,7 +56,7 @@ This is a scatterplot of the amount of shares a particular post got on a certain
 
 ## Conclusion
 
-
+My results for the most part aligned with Buzzfeed's. I was shocked to learn the proportion of misleading posts to mostly true posts. I was not surprised to see that the least user engagement among these Facebook posts was towards the mainstream sites. However, I was surprised to see just how much misinformation was posted by left-leaning sites. What is critical to discuss to is that misinformation varies in terms of severity. Some misinformation can be more threatening and dangerous than others and this is a critical issue that was not discussed in the Buzzfeed report. 
 
 ## Story Pitch and Sources
 
@@ -76,4 +81,8 @@ Silverman is the founding editor of the report published by Buzzfeed and the dat
 
 1. Q2 2022 Widely Viewed Content Report by Meta, https://transparency.fb.com/data/widely-viewed-content-report/
 
+This is the Q2 2022 widely viewed content report and it is essentially Facebook's way of holding itself accountable in terms of transparency in its content. By perusing this report, you can see popular content on the page and the source it is coming from. You can also see popular posts that have been taken down by Facebook because it violated the inauthentic behavior policy. This most recent report is evidence that Facebook can be so much more transparent on the amount of misinformation on its platform. The site simply picks and chooses what it will reveal to the public. The lack of substantive, concrete information in this report is evidence in itself that Facebook could do much better in countering misinformation. 
+
 2. "In Ukraine, Facebook fact-checkers fight a war on two fronts" by The Washington Post, https://www.washingtonpost.com/technology/2022/04/12/facebook-fact-checkers-misinformation-ukraine-war/
+
+This report by the Washington Post details an example of work the Facebook fact-checkers do to combat misinformation. This is another way, Facebooks argues, that the site holds itself accountable in combatting misinformation. As discussed in this report, Facebook's new mechanism for curbing misinformation is decreasing the misleading/false post's visibility in news feeds and adds a warning label to the post. 
