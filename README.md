@@ -41,6 +41,8 @@ Left-leaning sites overwhelmingly received the highest amount of shares followed
 
 How I found the answer: Go to "insert" and create a pivot table. Select "Date Published" for row, "rating" for column, and COUNTA "rating" for value. The pivot table will categorize the posts based on rating and date published. 
 
+The most posts with "no factual content" were released on the 2 days closest to the election (09/26/16 and 09/27/16). Addtionally, the most posts relaesed from the sites in this dataset were in the last two days closest to the election. If you compare 09/19 to 09/27, you will see that posts with "no factual content" jumped from 21 to 56. For the most part, the makeup of factual content mostly true for all days. 
+
 ## Data Visualization
 
 ![data viz 1](https://github.com/sofia-sch24/J124-Final/blob/54c9e9b3a75f4f50171ed7fce0e37dfa664f184c/data%20viz%201.png)
