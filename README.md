@@ -47,6 +47,11 @@ The most posts with "no factual content" were released on the 2 days closest to 
 
 ![data viz 1](https://github.com/sofia-sch24/J124-Final/blob/54c9e9b3a75f4f50171ed7fce0e37dfa664f184c/data%20viz%201.png)
 
+This is a scatterplot of the amount of shares a particular post got on a certain date. The posts are based off their categories (left, mainstream, and right). This is a way to visualize the popularity of posts and we can see from this that left-leaning posts receive more shares. 
+
+## Conclusion
+
+
 
 ## Story Pitch and Sources
 
